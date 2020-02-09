@@ -2,7 +2,7 @@ import React, {Component}  from 'react';
 import {Form,Input,Button,Icon,message} from 'antd';
 import axios from 'axios';
 
-import logo from './logo.png';
+import logo from '../../assets/./logo.png';
 import './index.less';
 import{Redirect} from 'react-router-dom';
 
